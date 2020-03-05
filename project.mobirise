@@ -506,7 +506,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#0f7699",
+              "color": "#149dcc",
               "text-align": "center"
             }
           },
