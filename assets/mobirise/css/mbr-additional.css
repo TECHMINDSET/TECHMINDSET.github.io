@@ -104,7 +104,7 @@ body {
   background-color: #879a9f !important;
 }
 .bg-danger {
-  background-color: #23de44 !important;
+  background-color: #0a4615 !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -208,8 +208,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #23de44 !important;
-  border-color: #23de44 !important;
+  background-color: #0a4615 !important;
+  border-color: #0a4615 !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -217,14 +217,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #189d2f !important;
-  border-color: #189d2f !important;
+  background-color: #000301 !important;
+  border-color: #000301 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #189d2f !important;
-  border-color: #189d2f !important;
+  background-color: #000301 !important;
+  border-color: #000301 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -372,22 +372,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #148728;
-  color: #148728;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #23de44;
-  border-color: #23de44;
+  background-color: #0a4615;
+  border-color: #0a4615;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #23de44 !important;
-  border-color: #23de44 !important;
+  background-color: #0a4615 !important;
+  border-color: #0a4615 !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -439,7 +439,7 @@ body {
   color: #879a9f !important;
 }
 .text-danger {
-  color: #23de44 !important;
+  color: #0a4615 !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -469,7 +469,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #148728 !important;
+  color: #000000 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -489,7 +489,7 @@ a.text-black:focus {
   background-color: #879a9f;
 }
 .alert-danger {
-  background-color: #23de44;
+  background-color: #0a4615;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -539,7 +539,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #d4f9db;
+  color: #50e66b;
 }
 /* Scroll to top button*/
 #scrollToTop a {
@@ -4528,7 +4528,7 @@ section.lazy-placeholder:after {
 .cid-rSmv5kVM5u {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #073b4c;
 }
 .cid-rSmv5kVM5u .card-box {
   padding: 0 2rem;
@@ -4564,6 +4564,68 @@ section.lazy-placeholder:after {
 .cid-rSmv5kVM5u .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rSpjAuHuWI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/img-20190811-090214-4-1565510919809-1022x1362.jpg");
+}
+.cid-rSpjAuHuWI .media-container-column {
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rSpjAuHuWI .mbr-author-desc {
+  display: block;
+}
+.cid-rSpjAuHuWI .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  -webkit-flex-basis: auto;
+}
+.cid-rSpjAuHuWI .mbr-testimonial .panel-item {
+  background-color: #0f7699;
+  background: linear-gradient(#0f7699, transparent);
+}
+.cid-rSpjAuHuWI .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-rSpjAuHuWI .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rSpjAuHuWI .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rSpjAuHuWI .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-rSpjAuHuWI .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-rSpjAuHuWI .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-rSpjAuHuWI H2 {
+  color: #efefef;
+}
+.cid-rSpjAuHuWI .mbr-section-subtitle {
+  color: #efefef;
 }
 .cid-rSlT2ASUF0 .navbar {
   background: #0f7699;
