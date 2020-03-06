@@ -1,87 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>http://techmindset.ga/</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/index.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page5.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page6.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page3.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page7.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page1.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page12.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page2.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page4.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page8.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page9.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page10.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page11.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://techmindset.ga/page13.html</loc>
-  <lastmod>2020-03-05T23:42:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://techmindset.ga/index.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page1.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page2.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page3.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page4.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page5.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page6.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page7.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page8.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page9.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page10.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page11.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page12.html</loc>
+	</url>
+	<url>
+		<loc>https://techmindset.ga/page13.html</loc>
+	</url>
 </urlset>
