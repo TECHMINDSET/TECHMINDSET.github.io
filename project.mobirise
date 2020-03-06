@@ -62,7 +62,7 @@
     },
     "uniqCompNum": 58,
     "versionPublish": "4.12.2",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-159961728-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-159961728-1');\n</script>\n",
+    "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-159961728-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-159961728-1');\n</script>\n",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
