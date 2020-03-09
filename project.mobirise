@@ -63,7 +63,12 @@
       "text": "We use cookies to give you the best experience. Read our <a href='page14.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "gdpr": false
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    }
   },
   "pages": {
     "index.html": {
